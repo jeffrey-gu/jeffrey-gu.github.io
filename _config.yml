@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeffrey Gu"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jeffrey Gu"
@@ -127,13 +127,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: "https://twitter.com/JeffreyGu3"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jeffrey-gu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jeffrey-c-gu/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
